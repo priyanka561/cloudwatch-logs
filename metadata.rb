@@ -1,4 +1,4 @@
-name 'cloudwatch-logs'
+name 'cloudwatch-logs-chef'
 license 'All rights reserved'
 description 'Installs/Configures cloudwatch-logs'
 long_description 'Installs/Configures cloudwatch-logs'
