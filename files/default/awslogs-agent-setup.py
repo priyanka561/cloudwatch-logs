@@ -305,7 +305,7 @@ state_file = /var/awslogs/state/agent-state
 #log_group_name = kern.log
 #
 ## Name of the destination log stream. You may use {hostname} to use target machine's hostname.
-#log_stream_name = {instance_id} # Defaults to ec2 instance id
+#log_stream_name = {instance_id}-ES-syslog-LogStream # Defaults to ec2 instance id
 #
 ## Format specifier for timestamp parsing. Here are some sample formats:
 ## Use '%b %d %H:%M:%S' for syslog (Apr 24 08:38:42)
